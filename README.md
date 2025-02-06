@@ -20,16 +20,14 @@ Thank you.
 Detailed instructions on how to set up the project locally.
 1. Clone the repository
    ```sh
-   git clone https://github.com/OS-Hacker/Mern-Coding-Challenge/tree/main
-
+   gh repo clone OS-Hacker/Mern-Coding-Challenge
+   
 cd Mern Project
 
 cd backend
-Install backend dependencies 
 npm install
 
-cd ../frontend
-Install frontend dependencies 
+cd frontend
 npm install
 
 # Run backend
