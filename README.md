@@ -22,7 +22,7 @@ Detailed instructions on how to set up the project locally.
    ```sh
    gh repo clone OS-Hacker/Mern-Coding-Challenge
    
-cd Mern Project
+cd Mern-Coding-Challenge
 
 cd backend
 npm install
